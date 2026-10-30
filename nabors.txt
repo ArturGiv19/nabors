@@ -1,1 +1,1 @@
-{"array":[{"naborName":"dynosaurus"},{"naborName":"space"},{"naborName":"space2"}]}
+{"array":[{"naborName":"dynosaurus"},{"naborName":"space"}]}
